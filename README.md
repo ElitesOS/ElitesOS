@@ -3,6 +3,7 @@
 <h1 align=center>Hᴇʟʟᴏ <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=30px> I Aᴍ Sɪᴍᴘʟᴇ Bᴏʏ</h1>
 <h3 align=center>Im a professional but learning developer from India.</h3>
 
+<img align=right alt=Coding width=400 src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 ## ∆- Aʙᴏᴜᴛ Mᴇ
 
@@ -56,4 +57,4 @@
 <a href=https://github.com/ElitesOS/github-profile-views-counter>
     <img src=https://komarev.com/ghpvc/?username=ElitesOS>
 </a>
-<a href=https://github.com/ElitesOS?tab=followers><img src=https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social alt=GitHub Badge></a>
+<a href=https://github.com/ElitesOS?tab=followers><img src=https://img.shields.io/github/followers/ElitesOS?label=Followers&style=social alt=GitHub Badge></a>
